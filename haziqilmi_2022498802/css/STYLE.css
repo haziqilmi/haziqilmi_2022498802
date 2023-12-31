@@ -1,0 +1,50 @@
+body
+{
+	background-color: turquoise;
+}
+
+h2
+{
+
+color: lightblue;
+font-family: tahoma;
+text-align: right;
+}
+h1
+{
+
+color: floralwhite;
+;
+font-family: tahoma;
+text-align: left;
+}
+p
+{
+
+color: floralwhite;
+text-align: right;
+font-family: serif;
+text-align: center;
+font-size: 30px;
+}
+h2
+{
+	color: blue;
+	background-color: lightcoral;
+	border: 2px dotted black;
+	text-align: center;
+}
+table,th,td,tr
+{
+	border: 3px solid black;
+	color: whitesmoke;
+}
+th
+{
+	background-color: blueviolet;
+	color: whitesmoke;
+}
+tr
+{
+	background-color: blue;
+}
